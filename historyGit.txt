@@ -1,0 +1,453 @@
+    1  history > istorija.txt
+    2  ls -l
+    3  cat istorija.txt
+    4  tail istorija.txt 
+    5  tail istorija.txt > istorija1.txt
+    6  li -l
+    7  cat istorija1.txt
+    8  tail - n 3
+    9  tail - n 3 istorija1.txt
+   10  tail - n 3 istorija.txt
+   11  tail -n 3 istorija.txt
+   12  head istorija1.txt
+   13  head -n 3 istorija1.txt
+   14  mkdir novi 
+   15  cd novi
+   16  history > fajl.txt
+   17  touch fajl.txt
+   18  history > fajl.txt
+   19  grep -e cd fajl.txt
+   20  grep -e Nikolic fajl.txt
+   21  grep -e cd fajl.txt | tail -n 3
+   22  ps
+   23  kill 1216
+   24  find fajl.txt
+   25  find Nikolic
+   26  locate đole posao
+   27  locate fajl.txt
+   28  cd novi
+   29  git init
+   30  git config -- global user.name "hari haler"
+   31  git config --global user.name "hari haler"
+   32  git config --global user.email "nikolicdjordje01@gmail.com"
+   33  git status
+   34  git add fajl.txt
+   35  git commit -m "dodavanje fajla fajl.txt"
+   36  git clone https://github.com/harihaler/it-bootcamp.git
+   37  git push https://github.com/harihaler/it-bootcamp.git
+   38  git push --set-upstream https://github.com/harihaler/it-bootcamp.git master
+   39  git push --set-upstream https://github.com/harihaler/it-bootcamp.git master
+   40  git push --set-upstream https://github.com/harihaler/it-bootcamp.git master
+   41  git push --set-upstream https://github.com/harihaler/it-bootcamp.git master
+   42  git push --set-upstream https://github.com/harihaler/it-bootcamp.git master
+   43  git push https://github.com/harihaler/it-bootcamp.git
+   44   git push --set-upstream https://github.com/harihaler/it-bootcamp.git master
+   45  git push --set-upstream https://github.com/harihaler/it-bootcamp.git master
+   46  git push --set-upstream https://github.com/harihaler/it-bootcamp.git master
+   47  git pull https://github.com/harihaler/it-bootcamp.git
+   48  git checkout -b novaGrana
+   49  touch noviFajl.txt
+   50  git add noviFajl.txt
+   51  git commit -m "nova grana novi fajl"
+   52  git push https://github.com/harihaler/it-bootcamp.git
+   53   git push --set-upstream https://github.com/harihaler/it-bootcamp.git novaGrana
+   54  history
+   55  pwd
+   56  li
+   57  lo
+   58  rwd
+   59  rwd
+   60  cd novi
+   61  history
+   62  history > istorijaKomandi
+   63  cd novi
+   64  mkdir istorijaKomandi
+   65  cd istorijaKomandi
+   66  cd ..
+   67  cd ..
+   68  cd ..
+   69  cd ..
+   70  ls
+   71  cd Nikolic
+   72  pwd
+   73  ls
+   74  cd Pictures
+   75  ls
+   76  cd Camera Roll
+   77  cd 'Camera Roll'
+   78  ls
+   79  cd ../..
+   80  cd ../..
+   81  pwd
+   82  cd ../..
+   83  pwd
+   84  history
+   85  mkdir novi123
+   86  cd novi123
+   87  history > fajl.txt
+   88  grep -e cd fajl.txt
+   89  grep -e cd fajl.txt | tail -n 15
+   90  git init
+   91  git config --globar user name "hari haler"
+   92  git config --global user.name "hari haler"
+   93  git config --global user.email "nikolicdjordje01@gmail.com"
+   94  git status
+   95  git clone https://github.com/harihaler/bootcampVezbanje.git
+   96  li
+   97  cd bootcampVezbanje
+   98  mkdir djordjeNikolic
+   99  cd djordjeNikolic
+  100  touch licniPodaci.txt
+  101  nano licniPodaci.txt
+  102  cd ..
+  103  nano vezba1.txt
+  104  git push https://github.com/harihaler/bootcampVezbanje.git
+  105   git push https://github.com/harihaler/bootcampVezbanje.git master
+  106   git push https://github.com/harihaler/bootcampVezbanje.git main
+  107   git push https://github.com/harihaler/bootcampVezbanje.git master
+  108  git push --set upstream  git push https://github.com/harihaler/bootcampVezbanje.git master
+  109  git push https://github.com/harihaler/bootcampVezbanje.git 
+  110  git commit -m "dodavanje foldera i fajla"
+  111  git add "licniPodaci.txt"
+  112  git add "licniPodaci"
+  113  git add "djordjeNikolic"
+  114  git push https://github.com/harihaler/bootcampVezbanje.git
+  115  git add "licniPodaci"
+  116  git add "djordjeNikolic"
+  117  git commit -m "dodavanje domaceg zadatka"
+  118  git push https://github.com/harihaler/bootcampVezbanje.git
+  119  git add "vezba1.txt"
+  120  git commit -m "dodavanje izmena u fajlu vezba1.txt"
+  121  git push https://github.com/harihaler/bootcampVezbanje.git
+  122  mkdir domaci
+  123  cd domaci
+  124  git init
+  125  git config --globar user.name "hari haler"
+  126  git config --global user.name "hari haler"
+  127  git config --global user.email "nikolicdjordje01@gmail.com"
+  128  git clone https://github.com/harihaler/bootcampVezbanje.git
+  129  cd bootcampVezbanje
+  130  mkdir djordjeNikolic
+  131  cd djordjeNikolic
+  132  touch licniPodaci.txt
+  133  nano licniPodaci.txt
+  134  nano vezba1.txt
+  135  git add "djordjeNikolic"
+  136  cd ..
+  137  git add "djordjeNikolic"
+  138  git commit -m "dodavanje foldera sa licnim podacima"
+  139  git add "vezba1.txt"
+  140  git commit -m "dodavanje izmenjenog fajla"
+  141  git push https://github.com/harihaler/bootcampVezbanje.git
+  142  cd djordjeNikolic
+  143  li
+  144  ls
+  145  rm vezba1.txt
+  146  ls
+  147  cd ..
+  148  nano vezba1.txt
+  149  git add "vezba1.txt"
+  150  git commit -m "dodavanje unosa u fajl"
+  151  git push 
+  152  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop
+  153  $ mkdir domaci
+  154  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop
+  155  $ cd domaci
+  156  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci
+  157  $ git init
+  158  Initialized empty Git repository in C:/Users/Nikolic/Desktop/domaci/.git/
+  159  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  160  $ git config --globar user.name "hari haler"
+  161  error: unknown option `globar'
+  162  usage: git config [<options>]
+  163  Config file location
+  164      --global              use global config file
+  165      --system              use system config file
+  166      --local               use repository config file
+  167      --worktree            use per-worktree config file
+  168      -f, --file <file>     use given config file
+  169      --blob <blob-id>      read config from given blob object
+  170  Action
+  171      --get                 get value: name [value-pattern]
+  172      --get-all             get all values: key [value-pattern]
+  173      --get-regexp          get values for regexp: name-regex [value-pattern]
+  174      --get-urlmatch        get value specific for the URL: section[.var] URL
+  175      --replace-all         replace all matching variables: name value [value-pattern]
+  176      --add                 add a new variable: name value
+  177      --unset               remove a variable: name [value-pattern]
+  178      --unset-all           remove all matches: name [value-pattern]
+  179      --rename-section      rename section: old-name new-name
+  180      --remove-section      remove a section: name
+  181      -l, --list            list all
+  182      --fixed-value         use string equality when comparing values to 'value-pattern'
+  183      -e, --edit            open an editor
+  184      --get-color           find the color configured: slot [default]
+  185      --get-colorbool       find the color setting: slot [stdout-is-tty]
+  186  Type
+  187      -t, --type <>         value is given this type
+  188      --bool                value is "true" or "false"
+  189      --int                 value is decimal number
+  190      --bool-or-int         value is --bool or --int
+  191      --bool-or-str         value is --bool or string
+  192      --path                value is a path (file or directory name)
+  193      --expiry-date         value is an expiry date
+  194  Other
+  195      -z, --null            terminate values with NUL byte
+  196      --name-only           show variable names only
+  197      --includes            respect include directives on lookup
+  198      --show-origin         show origin of config (file, standard input, blob, command line)
+  199      --show-scope          show scope of config (worktree, local, global, system, command)
+  200      --default <value>     with --get, use default value when missing entry
+  201  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  202  $ git config --global user.name "hari haler"
+  203  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  204  $ git config --global user.email "nikolicdjordje01@gmail.com"
+  205  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  206  $ git clone https://github.com/harihaler/bootcampVezbanje.git
+  207  Cloning into 'bootcampVezbanje'...
+  208  remote: Enumerating objects: 3, done.
+  209  remote: Counting objects: 100% (3/3), done.
+  210  remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+  211  Receiving objects: 100% (3/3), done.
+  212  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  213  $ cd bootcampVezbanje
+  214  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  215  $ mkdir djordjeNikolic
+  216  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  217  $ cd djordjeNikolic
+  218  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  219  $ touch licniPodaci.txt
+  220  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  221  $ nano licniPodaci.txt
+  222  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  223  $ nano vezba1.txt
+  224  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  225  $ git add "djordjeNikolic"
+  226  fatal: pathspec 'djordjeNikolic' did not match any files
+  227  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  228  $ cd ..
+  229  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  230  $ git add "djordjeNikolic"
+  231  warning: LF will be replaced by CRLF in djordjeNikolic/licniPodaci.txt.
+  232  The file will have its original line endings in your working directory
+  233  warning: LF will be replaced by CRLF in djordjeNikolic/vezba1.txt.
+  234  The file will have its original line endings in your working directory
+  235  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  236  $ git commit -m "dodavanje foldera sa licnim podacima"
+  237  [main cb8adb5] dodavanje foldera sa licnim podacima
+  238   2 files changed, 6 insertions(+)
+  239   create mode 100644 djordjeNikolic/licniPodaci.txt
+  240   create mode 100644 djordjeNikolic/vezba1.txt
+  241  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  242  $ git add "vezba1.txt"
+  243  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  244  $ git commit -m "dodavanje izmenjenog fajla"
+  245  On branch main
+  246  Your branch is ahead of 'origin/main' by 1 commit.
+  247    (use "git push" to publish your local commits)
+  248  nothing to commit, working tree clean
+  249  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  250  $ git push https://github.com/harihaler/bootcampVezbanje.git
+  251  Enumerating objects: 6, done.
+  252  Counting objects: 100% (6/6), done.
+  253  Delta compression using up to 4 threads
+  254  Compressing objects: 100% (3/3), done.
+  255  Writing objects: 100% (5/5), 471 bytes | 235.00 KiB/s, done.
+  256  Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+  257  To https://github.com/harihaler/bootcampVezbanje.git
+  258     f38696d..cb8adb5  main -> main
+  259  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  260  $ cd djordjeNikolic
+  261  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  262  $ li
+  263  bash: li: command not found
+  264  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  265  $ ls
+  266  licniPodaci.txt  vezba1.txt
+  267  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  268  $ rm vezba1.txt
+  269  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  270  $ ls
+  271  licniPodaci.txt
+  272  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  273  $ cd ..
+  274  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  275  $ nano vezba1.txt
+  276  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  277  $ git add "vezba1.txt"
+  278  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  279  $ git commit -m "dodavanje unosa u fajl"
+  280  [main 550a115] dodavanje unosa u fajl
+  281   1 file changed, 1 insertion(+), 1 deletion(-)
+  282  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  283  $ git push
+  284  git push 
+  285  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop
+  286  $ mkdir domaci
+  287  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop
+  288  $ cd domaci
+  289  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci
+  290  $ git init
+  291  Initialized empty Git repository in C:/Users/Nikolic/Desktop/domaci/.git/
+  292  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  293  $ git config --globar user.name "hari haler"
+  294  error: unknown option `globar'
+  295  usage: git config [<options>]
+  296  Config file location
+  297      --global              use global config file
+  298      --system              use system config file
+  299      --local               use repository config file
+  300      --worktree            use per-worktree config file
+  301      -f, --file <file>     use given config file
+  302      --blob <blob-id>      read config from given blob object
+  303  Action
+  304      --get                 get value: name [value-pattern]
+  305      --get-all             get all values: key [value-pattern]
+  306      --get-regexp          get values for regexp: name-regex [value-pattern]
+  307      --get-urlmatch        get value specific for the URL: section[.var] URL
+  308      --replace-all         replace all matching variables: name value [value-pattern]
+  309      --add                 add a new variable: name value
+  310      --unset               remove a variable: name [value-pattern]
+  311      --unset-all           remove all matches: name [value-pattern]
+  312      --rename-section      rename section: old-name new-name
+  313      --remove-section      remove a section: name
+  314      -l, --list            list all
+  315      --fixed-value         use string equality when comparing values to 'value-pattern'
+  316      -e, --edit            open an editor
+  317      --get-color           find the color configured: slot [default]
+  318      --get-colorbool       find the color setting: slot [stdout-is-tty]
+  319  Type
+  320      -t, --type <>         value is given this type
+  321      --bool                value is "true" or "false"
+  322      --int                 value is decimal number
+  323      --bool-or-int         value is --bool or --int
+  324      --bool-or-str         value is --bool or string
+  325      --path                value is a path (file or directory name)
+  326      --expiry-date         value is an expiry date
+  327  Other
+  328      -z, --null            terminate values with NUL byte
+  329      --name-only           show variable names only
+  330      --includes            respect include directives on lookup
+  331      --show-origin         show origin of config (file, standard input, blob, command line)
+  332      --show-scope          show scope of config (worktree, local, global, system, command)
+  333      --default <value>     with --get, use default value when missing entry
+  334  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  335  $ git config --global user.name "hari haler"
+  336  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  337  $ git config --global user.email "nikolicdjordje01@gmail.com"
+  338  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  339  $ git clone https://github.com/harihaler/bootcampVezbanje.git
+  340  Cloning into 'bootcampVezbanje'...
+  341  remote: Enumerating objects: 3, done.
+  342  remote: Counting objects: 100% (3/3), done.
+  343  remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+  344  Receiving objects: 100% (3/3), done.
+  345  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci (master)
+  346  $ cd bootcampVezbanje
+  347  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  348  $ mkdir djordjeNikolic
+  349  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  350  $ cd djordjeNikolic
+  351  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  352  $ touch licniPodaci.txt
+  353  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  354  $ nano licniPodaci.txt
+  355  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  356  $ nano vezba1.txt
+  357  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  358  $ git add "djordjeNikolic"
+  359  fatal: pathspec 'djordjeNikolic' did not match any files
+  360  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  361  $ cd ..
+  362  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  363  $ git add "djordjeNikolic"
+  364  warning: LF will be replaced by CRLF in djordjeNikolic/licniPodaci.txt.
+  365  The file will have its original line endings in your working directory
+  366  warning: LF will be replaced by CRLF in djordjeNikolic/vezba1.txt.
+  367  The file will have its original line endings in your working directory
+  368  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  369  $ git commit -m "dodavanje foldera sa licnim podacima"
+  370  [main cb8adb5] dodavanje foldera sa licnim podacima
+  371   2 files changed, 6 insertions(+)
+  372   create mode 100644 djordjeNikolic/licniPodaci.txt
+  373   create mode 100644 djordjeNikolic/vezba1.txt
+  374  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  375  $ git add "vezba1.txt"
+  376  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  377  $ git commit -m "dodavanje izmenjenog fajla"
+  378  On branch main
+  379  Your branch is ahead of 'origin/main' by 1 commit.
+  380    (use "git push" to publish your local commits)
+  381  nothing to commit, working tree clean
+  382  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  383  $ git push https://github.com/harihaler/bootcampVezbanje.git
+  384  Enumerating objects: 6, done.
+  385  Counting objects: 100% (6/6), done.
+  386  Delta compression using up to 4 threads
+  387  Compressing objects: 100% (3/3), done.
+  388  Writing objects: 100% (5/5), 471 bytes | 235.00 KiB/s, done.
+  389  Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+  390  To https://github.com/harihaler/bootcampVezbanje.git
+  391     f38696d..cb8adb5  main -> main
+  392  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  393  $ cd djordjeNikolic
+  394  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  395  $ li
+  396  bash: li: command not found
+  397  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  398  $ ls
+  399  licniPodaci.txt  vezba1.txt
+  400  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  401  $ rm vezba1.txt
+  402  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  403  $ ls
+  404  licniPodaci.txt
+  405  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje/djordjeNikolic (main)
+  406  $ cd ..
+  407  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  408  $ nano vezba1.txt
+  409  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  410  $ git add "vezba1.txt"
+  411  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  412  $ git commit -m "dodavanje unosa u fajl"
+  413  [main 550a115] dodavanje unosa u fajl
+  414   1 file changed, 1 insertion(+), 1 deletion(-)
+  415  Nikolic@DESKTOP-9KUUAAD MINGW64 ~/Desktop/domaci/bootcampVezbanje (main)
+  416  $ git push
+  417  git push https://github.com/harihaler/bootcampVezbanje.git
+  418  history > historyGit.txt
+  419  rm historyGit
+  420  cd bootcampVezbanje
+  421  ls
+  422  cd djordjeNikolic
+  423  rm historyGit.txt
+  424  ls
+  425  cd ..
+  426  ls
+  427  rm historyGit.txt
+  428  history > istorija.txt
+  429  tail -n 100 istorija.txt
+  430  tail -n 100 > hystoriGit.txt
+  431  cat istorija.txt
+  432  tail -n 100 > historyGit.txt
+  433  nano historyGit.txt
+  434  rm historyGit.txt
+  435  tail -n 100
+  436  tail -n 100 istorija.txt > hystoryGit.txt
+  437  cd domaci
+  438  ls
+  439  cd bootcampVezbanje
+  440  ls
+  441  rm historyGit.txt
+  442  cd djordjeNikolic
+  443  rm historyGit.txt
+  444  cd ..
+  445  rm histoyGit.txt
+  446  rm historyGit.txt
+  447  rm hystoriGit.txt
+  448  rm hystoryGit.txt
+  449  history > istorijaKomandi.txt
+  450  tail -n 200 istorijaKomandi.txt > historyGit.txt
+  451  nano historyGit.txt
+  452  rm historyGit.txt
+  453  history > historyGit.txt
